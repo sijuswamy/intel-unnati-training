@@ -12,4 +12,4 @@ This repository contains notebooks for intel-unnati training programme
 
 >**Step 3:** Execute the `pip_environment.sh` file for creating the environment training and kernel named "training" for your first project with `intel-DevCloud`. Just run this command in the terminal selected in OneAPI
 
-` bash pip_env.sh`
+` bash pip_environment.sh`

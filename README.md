@@ -8,7 +8,7 @@ This repository contains notebooks for intel-unnati training programme
 > Click on the `jupyterLab` option at the end.
 
 >**Step 2:** Clone the github repo using the command in a terminal
-  `gitclone https://github.com/sijuswamy/intel-unnati-training.git`
+  `git clone https://github.com/sijuswamy/intel-unnati-training.git`
 
 >**Step 3:** Execute the `pip_environment.sh` file for creating the environment training and kernel named "training" for your first project with `intel-DevCloud`. Just run this command in the terminal selected in OneAPI
 
